@@ -9,12 +9,51 @@ using namespace std;
 
 class Solution {
 public:
-    typedef pair<int, int> P;
+vector<int> parent;
+vector<int> rank;
+
+int find(int i){
+    if(parent[i]==i)return i;
+    return parent[i]=find(parent[i]);
+}
+void Union(int x, int y){
+    int xp=find(x);
+    int yp=find(y);
+    if(xp==yp)return;
+    
+    if(rank[xp]> rank[yp]){
+        parent[yp]=xp;
+    }
+    else if(rank[xp] < rank[yp]){
+        parent[xp]=yp;
+    }
+    else {
+        parent[xp]=yp;
+        rank[yp]++;
+    }
+}
+   // typedef pair<int, int> P;
+   int kruskuls(vector<vector<int>> &vec){
+       int sum=0;
+       for(auto & temp: vec){
+           int u=temp[0];
+           int v=temp[1];
+           int wt=temp[2];
+           
+           int parent_u=find(u);
+           int parent_v=find(v);
+           if(parent_u !=parent_v){
+               Union(u,v);
+               sum+=wt;
+           }
+       }
+       return sum;
+   }
 
     int spanningTree(int V, vector<vector<int>>& edges) {
 
         // Build adjacency list
-        vector<vector<P>> adj(V);
+        /*vector<vector<P>> adj(V);
 
         for (auto &e : edges) {
             int u = e[0];
@@ -56,5 +95,22 @@ public:
         }
 
         return sum;
+        */
+        parent.resize(V);
+        rank.resize(V,0);
+        for(int i=0;i<V;i++){
+            parent[i]=i;
+        }
+        
+        
+        auto comprator=[&](vector<int>&v1, vector<int> &v2){
+            return v1[2]< v2[2];
+            
+        };
+        
+        sort(begin(edges), end(edges), comprator);
+        return kruskuls(edges);
+        
     }
+    
 };
