@@ -5,11 +5,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 ## Statistics
 
-| Platform | Total Solved | Easy | Medium | Hard |
-| --- | --- | --- | --- | --- |
-| LeetCode | 7 | 1 | 6 | 0 |
-| GeeksforGeeks | 8 | 1 | 7 | 0 |
-| **Total** | **15** | **2** | **13** | **0** |
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 7 | 1 | 6 | 0 | - |
+| GeeksforGeeks | 9 | 1 | 7 | 0 | 1 |
+| **Total** | **16** | **2** | **13** | **0** | **1** |
 
 ## Solved Problems
 
@@ -30,4 +30,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 13 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
 | 14 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
 | 15 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
+| 16 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
 <!-- COMMITDSA_END -->
