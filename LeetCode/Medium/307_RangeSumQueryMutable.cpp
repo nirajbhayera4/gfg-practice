@@ -63,7 +63,7 @@ public:
         n = nums.size();
         seg.resize(4 * n);
 
-        if (n > 1) {
+        if (n > 0) {
             build(0, 0, n - 1, nums);
         }
     }
