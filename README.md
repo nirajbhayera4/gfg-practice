@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 11 | 1 | 10 | 0 | - |
+| LeetCode | 12 | 1 | 10 | 1 | - |
 | GeeksforGeeks | 12 | 1 | 9 | 0 | 2 |
-| **Total** | **23** | **2** | **19** | **0** | **2** |
+| **Total** | **24** | **2** | **19** | **1** | **2** |
 
 ## Solved Problems
 
@@ -26,16 +26,17 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 9 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/518_CoinChangeII.cpp) |
 | 10 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/647_PalindromicSubstrings.cpp) |
 | 11 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/91_DecodeWays.cpp) |
-| 12 | [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_DFSOfGraph.cpp) |
-| 13 | [Bellman-Ford](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BellmanFord.cpp) |
-| 14 | [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BFSOfGraph.cpp) |
-| 15 | [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FloydWarshall.cpp) |
-| 16 | [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestPalindromicSubstring.cpp) |
-| 17 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
-| 18 | [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeMinimumQuery.cpp) |
-| 19 | [Range Sum Query](https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeSumQuery.cpp) |
-| 20 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
-| 21 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
-| 22 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
-| 23 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstNFibonacciUsingRecursion.cpp) |
+| 12 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2940_FindBuildingWhereAliceAndBobCanMeet.cpp) |
+| 13 | [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_DFSOfGraph.cpp) |
+| 14 | [Bellman-Ford](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BellmanFord.cpp) |
+| 15 | [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BFSOfGraph.cpp) |
+| 16 | [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FloydWarshall.cpp) |
+| 17 | [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestPalindromicSubstring.cpp) |
+| 18 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
+| 19 | [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeMinimumQuery.cpp) |
+| 20 | [Range Sum Query](https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeSumQuery.cpp) |
+| 21 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
+| 22 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
+| 23 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
+| 24 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstNFibonacciUsingRecursion.cpp) |
 <!-- COMMITDSA_END -->
