@@ -7,37 +7,38 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 13 | 1 | 11 | 1 | - |
+| LeetCode | 14 | 2 | 11 | 1 | - |
 | GeeksforGeeks | 12 | 1 | 9 | 0 | 2 |
-| **Total** | **25** | **2** | **20** | **1** | **2** |
+| **Total** | **26** | **3** | **20** | **1** | **2** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/303_RangeSumQueryImmutable.cpp) |
-| 2 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.cpp) |
-| 3 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1584_MinCostToConnectAllPoints.cpp) |
-| 4 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1631_PathWithMinimumEffort.cpp) |
-| 5 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
-| 6 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
-| 7 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/307_RangeSumQueryMutable.cpp) |
-| 8 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3479_FruitsIntoBasketsIII.cpp) |
-| 9 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/5_LongestPalindromicSubstring.cpp) |
-| 10 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/518_CoinChangeII.cpp) |
-| 11 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/647_PalindromicSubstrings.cpp) |
-| 12 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/91_DecodeWays.cpp) |
-| 13 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2940_FindBuildingWhereAliceAndBobCanMeet.cpp) |
-| 14 | [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_DFSOfGraph.cpp) |
-| 15 | [Bellman-Ford](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BellmanFord.cpp) |
-| 16 | [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BFSOfGraph.cpp) |
-| 17 | [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FloydWarshall.cpp) |
-| 18 | [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestPalindromicSubstring.cpp) |
-| 19 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
-| 20 | [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeMinimumQuery.cpp) |
-| 21 | [Range Sum Query](https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeSumQuery.cpp) |
-| 22 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
-| 23 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
-| 24 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
-| 25 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstNFibonacciUsingRecursion.cpp) |
+| 2 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3477_FruitsIntoBasketsII.cpp) |
+| 3 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.cpp) |
+| 4 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1584_MinCostToConnectAllPoints.cpp) |
+| 5 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1631_PathWithMinimumEffort.cpp) |
+| 6 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
+| 7 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
+| 8 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/307_RangeSumQueryMutable.cpp) |
+| 9 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3479_FruitsIntoBasketsIII.cpp) |
+| 10 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/5_LongestPalindromicSubstring.cpp) |
+| 11 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/518_CoinChangeII.cpp) |
+| 12 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/647_PalindromicSubstrings.cpp) |
+| 13 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/91_DecodeWays.cpp) |
+| 14 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2940_FindBuildingWhereAliceAndBobCanMeet.cpp) |
+| 15 | [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_DFSOfGraph.cpp) |
+| 16 | [Bellman-Ford](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BellmanFord.cpp) |
+| 17 | [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BFSOfGraph.cpp) |
+| 18 | [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FloydWarshall.cpp) |
+| 19 | [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestPalindromicSubstring.cpp) |
+| 20 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
+| 21 | [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeMinimumQuery.cpp) |
+| 22 | [Range Sum Query](https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeSumQuery.cpp) |
+| 23 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
+| 24 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
+| 25 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
+| 26 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstNFibonacciUsingRecursion.cpp) |
 <!-- COMMITDSA_END -->
