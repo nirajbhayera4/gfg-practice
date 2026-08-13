@@ -38,7 +38,7 @@ bool find(vector<vector<char>>& board,int i, int j, int idx, string &word){
         m=board[0].size();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(board[i][j]=word[0] && find(board,i, j, 0,word)){
+                if(board[i][j]==word[0] && find(board,i, j, 0,word)){
                     return true;
                 }
             }
