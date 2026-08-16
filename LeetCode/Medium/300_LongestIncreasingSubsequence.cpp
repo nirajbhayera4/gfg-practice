@@ -9,6 +9,7 @@ using namespace std;
 
 class Solution {
 public:
+/*
 int n;
 int t[2501][2501];
 int solve(vector<int> &nums, int idx, int p){
@@ -36,10 +37,25 @@ int solve(vector<int> &nums, int idx, int p){
 
 
 }
+*/
+
     int lengthOfLIS(vector<int>& nums) {
-        n=nums.size();
-        memset(t, -1, sizeof(t));
+        int n=nums.size();
+        /*memset(t, -1, sizeof(t));
         return solve(nums, 0,-1);
+        */
+        vector<int> t(n,1);
+
+        int maxlis=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[j] < nums[i]){
+                    t[i]=max(t[i], t[j] +1 );
+                    maxlis=max(t[i], maxlis);
+                }
+            }
+        }
+        return maxlis;
     }
 };
 
