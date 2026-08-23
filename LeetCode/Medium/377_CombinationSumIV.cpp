@@ -30,7 +30,7 @@ int backtrack(vector<int> &nums, int target,vector<int> &dp){
         count+=backtrack(nums, target -nums[i], dp);
 
     }
-    return count;
+    return dp[target]=count;
 }
     int combinationSum4(vector<int>& nums, int target) {
         vector<int> dp(target + 1, -1);
