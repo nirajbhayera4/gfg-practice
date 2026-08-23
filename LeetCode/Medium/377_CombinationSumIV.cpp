@@ -9,7 +9,7 @@ using namespace std;
 
 class Solution {
 public:
-int backtrack(vector<int> &nums, int target){
+int backtrack(vector<int> &nums, int target,vector<int> &dp){
     // valid combo 
 
     if(target==0){
@@ -20,17 +20,21 @@ int backtrack(vector<int> &nums, int target){
     if(target <0){
         return 0;
     }
+    if(dp[target]!=-1){
+        return dp[target];
+    }
     int count=0;
 
 
     for(int i=0;i<nums.size();i++){
-        count+=backtrack(nums, target -nums[i]);
+        count+=backtrack(nums, target -nums[i], dp);
 
     }
     return count;
 }
     int combinationSum4(vector<int>& nums, int target) {
-        return backtrack(nums, target);
+        vector<int> dp(target + 1, -1);
+        return backtrack(nums, target,dp);
     }
 };
 
