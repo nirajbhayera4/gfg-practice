@@ -7,56 +7,57 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 32 | 2 | 27 | 3 | - |
+| LeetCode | 33 | 3 | 27 | 3 | - |
 | GeeksforGeeks | 12 | 1 | 9 | 0 | 2 |
-| **Total** | **44** | **3** | **36** | **3** | **2** |
+| **Total** | **45** | **4** | **36** | **3** | **2** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/303_RangeSumQueryImmutable.cpp) |
-| 2 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3477_FruitsIntoBasketsII.cpp) |
-| 3 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/131_PalindromePartitioning.cpp) |
-| 4 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.cpp) |
-| 5 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/152_MaximumProductSubarray.cpp) |
-| 6 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1584_MinCostToConnectAllPoints.cpp) |
-| 7 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1631_PathWithMinimumEffort.cpp) |
-| 8 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/17_LetterCombinationsOfAPhoneNumber.cpp) |
-| 9 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
-| 10 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
-| 11 | [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2305_FairDistributionOfCookies.cpp) |
-| 12 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/300_LongestIncreasingSubsequence.cpp) |
-| 13 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/307_RangeSumQueryMutable.cpp) |
-| 14 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3479_FruitsIntoBasketsIII.cpp) |
-| 15 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/377_CombinationSumIV.cpp) |
-| 16 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/39_CombinationSum.cpp) |
-| 17 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/40_CombinationSumII.cpp) |
-| 18 | [46. Permutations](https://leetcode.com/problems/permutations/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/46_Permutations.cpp) |
-| 19 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/47_PermutationsII.cpp) |
-| 20 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/491_NonDecreasingSubsequences.cpp) |
-| 21 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/5_LongestPalindromicSubstring.cpp) |
-| 22 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/518_CoinChangeII.cpp) |
-| 23 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/647_PalindromicSubstrings.cpp) |
-| 24 | [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/673_NumberOfLongestIncreasingSubsequence.cpp) |
-| 25 | [77. Combinations](https://leetcode.com/problems/combinations/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/77_Combinations.cpp) |
-| 26 | [78. Subsets](https://leetcode.com/problems/subsets/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/78_Subsets.cpp) |
-| 27 | [79. Word Search](https://leetcode.com/problems/word-search/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/79_WordSearch.cpp) |
-| 28 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
-| 29 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/91_DecodeWays.cpp) |
-| 30 | [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/1601_MaximumNumberOfAchievableTransferRequests.cpp) |
-| 31 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2940_FindBuildingWhereAliceAndBobCanMeet.cpp) |
-| 32 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/980_UniquePathsIII.cpp) |
-| 33 | [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_DFSOfGraph.cpp) |
-| 34 | [Bellman-Ford](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BellmanFord.cpp) |
-| 35 | [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BFSOfGraph.cpp) |
-| 36 | [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FloydWarshall.cpp) |
-| 37 | [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestPalindromicSubstring.cpp) |
-| 38 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
-| 39 | [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeMinimumQuery.cpp) |
-| 40 | [Range Sum Query](https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeSumQuery.cpp) |
-| 41 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
-| 42 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
-| 43 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
-| 44 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstNFibonacciUsingRecursion.cpp) |
+| 1 | [2418. Sort the People](https://leetcode.com/problems/sort-the-people/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/2418_SortThePeople.cpp) |
+| 2 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/303_RangeSumQueryImmutable.cpp) |
+| 3 | [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | LeetCode | Easy | CPP | [Code](./LeetCode/Easy/3477_FruitsIntoBasketsII.cpp) |
+| 4 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/131_PalindromePartitioning.cpp) |
+| 5 | [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1334_FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance.cpp) |
+| 6 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/152_MaximumProductSubarray.cpp) |
+| 7 | [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1584_MinCostToConnectAllPoints.cpp) |
+| 8 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/1631_PathWithMinimumEffort.cpp) |
+| 9 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/17_LetterCombinationsOfAPhoneNumber.cpp) |
+| 10 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/198_HouseRobber.cpp) |
+| 11 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/213_HouseRobberII.cpp) |
+| 12 | [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/2305_FairDistributionOfCookies.cpp) |
+| 13 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/300_LongestIncreasingSubsequence.cpp) |
+| 14 | [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/307_RangeSumQueryMutable.cpp) |
+| 15 | [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/3479_FruitsIntoBasketsIII.cpp) |
+| 16 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/377_CombinationSumIV.cpp) |
+| 17 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/39_CombinationSum.cpp) |
+| 18 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/40_CombinationSumII.cpp) |
+| 19 | [46. Permutations](https://leetcode.com/problems/permutations/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/46_Permutations.cpp) |
+| 20 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/47_PermutationsII.cpp) |
+| 21 | [491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/491_NonDecreasingSubsequences.cpp) |
+| 22 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/5_LongestPalindromicSubstring.cpp) |
+| 23 | [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/518_CoinChangeII.cpp) |
+| 24 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/647_PalindromicSubstrings.cpp) |
+| 25 | [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/673_NumberOfLongestIncreasingSubsequence.cpp) |
+| 26 | [77. Combinations](https://leetcode.com/problems/combinations/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/77_Combinations.cpp) |
+| 27 | [78. Subsets](https://leetcode.com/problems/subsets/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/78_Subsets.cpp) |
+| 28 | [79. Word Search](https://leetcode.com/problems/word-search/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/79_WordSearch.cpp) |
+| 29 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/90_SubsetsII.cpp) |
+| 30 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | LeetCode | Medium | CPP | [Code](./LeetCode/Medium/91_DecodeWays.cpp) |
+| 31 | [1601. Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/1601_MaximumNumberOfAchievableTransferRequests.cpp) |
+| 32 | [2940. Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/2940_FindBuildingWhereAliceAndBobCanMeet.cpp) |
+| 33 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | LeetCode | Hard | CPP | [Code](./LeetCode/Hard/980_UniquePathsIII.cpp) |
+| 34 | [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_DFSOfGraph.cpp) |
+| 35 | [Bellman-Ford](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BellmanFord.cpp) |
+| 36 | [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BFSOfGraph.cpp) |
+| 37 | [Floyd Warshall](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FloydWarshall.cpp) |
+| 38 | [Longest Palindromic Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestPalindromicSubstring.cpp) |
+| 39 | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_MinimumSpanningTree.cpp) |
+| 40 | [Range Minimum Query](https://practice.geeksforgeeks.org/problems/range-minimum-query/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeMinimumQuery.cpp) |
+| 41 | [Range Sum Query](https://practice.geeksforgeeks.org/problems/sum-of-query-ii5310/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RangeSumQuery.cpp) |
+| 42 | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RatInAMaze.cpp) |
+| 43 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SecondLargest.cpp) |
+| 44 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.cpp) |
+| 45 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstNFibonacciUsingRecursion.cpp) |
 <!-- COMMITDSA_END -->
