@@ -17,7 +17,7 @@ public:
 
         for(auto &it  : freq)
         {
-            if(it.second==2){
+            if(it.second >=2){
                 return true;
             }
         }
